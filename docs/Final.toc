@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{}%
+\contentsline {subsection}{\numberline {1.1}The need}{5}{}%
+\contentsline {section}{\numberline {2}System Requirements}{5}{}%
+\contentsline {section}{\numberline {3}Project Flow}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Electoral Process}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Voter Registration}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Polling Process}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Tallying Process}{6}{}%
+\contentsline {section}{\numberline {4}Blockchain Structure}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Structure of a block}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Structure of the chain}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}Difficulty property}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Genesis block property}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}Last block property}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.4}Add block methodology}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.5}Proof of work function}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.6}Add new transaction function}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.7}Proof verification function}{7}{}%
+\contentsline {subsubsection}{\numberline {4.2.8}Chain validity check function}{8}{}%
+\contentsline {subsubsection}{\numberline {4.2.9}Mining function}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Structure of the API}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}New transaction reporting}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Chain retrieval}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Mining}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}Registration of new nodes}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}Addition of new blocks}{8}{}%
+\contentsline {subsubsection}{\numberline {4.3.6}Pending transaction retrieval}{8}{}%
+\contentsline {section}{\numberline {5}Conclusions and further research scope}{8}{}%
+\contentsline {section}{Appendices}{9}{}%
